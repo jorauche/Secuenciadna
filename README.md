@@ -31,7 +31,9 @@ La estructura del proyecto se  y  nodejs como lenguaje de programación apoyando
 
 
 ## Ejecutando las pruebas ⚙️
-Las pruebas se realizaron desde el postman
+Las pruebas se realizaron desde el postman.
+
+Anexo la url de aws https://6sfyro24sa.execute-api.us-east-2.amazonaws.com/Test/mutation/
 
 ![alt text](https://github.com/jorauche/Secuenciadna/blob/master/PruebasPostman.png)
 
