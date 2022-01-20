@@ -22,7 +22,7 @@ La estructura del proyecto se  y  nodejs como lenguaje de programación apoyando
 ![alt text](https://github.com/jorauche/Secuenciadna/blob/master/Estructura.png)
 
 ## Creación de lamda y api Gateway en aws
-![alt text](hhttps://github.com/jorauche/Secuenciadna/blob/master/CrearFuncionLamda.png)
+![alt text](https://github.com/jorauche/Secuenciadna/blob/master/CrearFuncionLamda.png)
 
 ![alt text](https://github.com/jorauche/Secuenciadna/blob/master/ApiGateway.png)
 
@@ -34,6 +34,13 @@ Las pruebas se realizaron desde el postman.
 
 Anexo la url de aws https://6sfyro24sa.execute-api.us-east-2.amazonaws.com/Test/mutation/
 
+{
+ "dna":["ATGCGA", "CAGTGC", "TTATGT", "AGAAGG", "CCCCTA", "TCACTG"]
+}
+
+{
+ "dna":["ATGCGA", "CAGTGC", "TTATTT", "AGACGG", "GCGTCA", "TCACTG"]
+}
 ![alt text](https://github.com/jorauche/Secuenciadna/blob/master/PruebasPostman.png)
 
 
