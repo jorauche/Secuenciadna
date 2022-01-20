@@ -1,4 +1,4 @@
-# Carrito de compra
+# Secuencia de ADN
 ## Proyecto en Nodejs con AWS
 ## Introducción
 
