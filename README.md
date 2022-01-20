@@ -20,7 +20,7 @@ Se intalo nodejs, se creo una cuena para generar lamda en AWS para poder exponer
 
 La estructura del proyecto se  y  nodejs como lenguaje de programación apoyandonos 
 
-![alt text](https://github.com/jorauche/CarritoEcommerce/blob/master/Estructura.png)
+![alt text](https://github.com/jorauche/Secuenciadna/blob/master/Estructura.png)
 
 
 
@@ -29,11 +29,11 @@ Las pruebas se realizaron desde el postman
 
 
 
-![alt text](https://github.com/jorauche/CarritoEcommerce/blob/master/Pantallas/PruebasPostman.png)
+![alt text](https://github.com/jorauche/Secuenciadna/blob/master/PruebasPostman.png)
 
 
 
-![alt text](https://github.com/jorauche/CarritoEcommerce/blob/master/Pantallas/PruebaDentroAWS.png)
+![alt text]https://github.com/jorauche/Secuenciadna/blob/master/PruebaDentroAWS.png)
 
 
 
