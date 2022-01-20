@@ -22,18 +22,22 @@ La estructura del proyecto se  y  nodejs como lenguaje de programación apoyando
 
 ![alt text](https://github.com/jorauche/Secuenciadna/blob/master/Estructura.png)
 
+## Creación de lamda y api Gateway en aws
+![alt text](hhttps://github.com/jorauche/Secuenciadna/blob/master/CrearFuncionLamda.png)
+
+![alt text](https://github.com/jorauche/Secuenciadna/blob/master/ApiGateway.png)
+
+![alt text](https://github.com/jorauche/Secuenciadna/blob/master/EstructuraParaDynamo.png)
 
 
 ## Ejecutando las pruebas ⚙️
 Las pruebas se realizaron desde el postman
 
-
-
 ![alt text](https://github.com/jorauche/Secuenciadna/blob/master/PruebasPostman.png)
 
 
 
-![alt text]https://github.com/jorauche/Secuenciadna/blob/master/PruebaDentroAWS.png)
+![alt text](https://github.com/jorauche/Secuenciadna/blob/master/PruebaDentroAWS.png)
 
 
 
