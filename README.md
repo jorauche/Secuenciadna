@@ -1,6 +1,5 @@
 # Carrito de compra
-## Proyecto en springboot y kottlin
-
+## Proyecto en Nodejs con AWS
 ## Introducción
 
 Este proyecto esta basado en NodeJS
